@@ -1,1 +1,1 @@
-# medical-kg-application
+# medkg
